@@ -1,0 +1,443 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VWaXJseQ/c21hcG9ja2VWaXJseQ/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Virly =====
+[1]Virly       |07:54:56 | 11-10-2026| login OK @virlyairina | score=920 rank=6361
+[1]Virly       |07:54:56 | 11-10-2026| serverTime=2026-10-11T07:54:56.000Z local=2026-10-11T07:54:56.731Z
+--> [1]Virly menjalankan: Claim Daily
+[1]Virly       |07:54:58 | 11-10-2026| daily: sudah klaim (already=true) score=920
+--> [1]Virly menjalankan: Auto All Tasks (3 pending)
+[1]Virly       |07:55:02 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/virlyairina/status/2109190535414775971
+[1]Virly       |07:55:02 | 11-10-2026| delay 10s...
+[1]Virly       |07:55:14 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/virlyairina/status/2109190814758670081
+[1]Virly       |07:55:14 | 11-10-2026| delay 10s...
+[1]Virly       |07:55:28 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/virlyairina/status/2109190598566133391
+[1]Virly       |07:55:28 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Virly       |07:55:29 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/virlyairina/status/2109190604305731906
+--> [1]Virly menjalankan: Watch Anime
+[1]Virly       |07:55:31 | 11-10-2026| watch: 1 video belum completed: oshi-first-journey
+[1]Virly       |07:55:31 | 11-10-2026| watch [1/1] farming oshi-first-journey...
+[1]Virly       |07:55:34 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Virly       |07:55:41 | 11-10-2026| watch oshi-first-journey: 7% (6.49/87.00s)
+[1]Virly       |07:55:48 | 11-10-2026| watch oshi-first-journey: 14% (12.75/87.00s)
+[1]Virly       |07:55:55 | 11-10-2026| watch oshi-first-journey: 21% (18.63/87.00s)
+[1]Virly       |07:56:01 | 11-10-2026| watch oshi-first-journey: 28% (24.54/87.00s)
+[1]Virly       |07:56:08 | 11-10-2026| watch oshi-first-journey: 35% (30.69/87.00s)
+[1]Virly       |07:56:15 | 11-10-2026| watch oshi-first-journey: 42% (36.58/87.00s)
+[1]Virly       |07:56:23 | 11-10-2026| watch oshi-first-journey: 48% (42.55/87.00s)
+[1]Virly       |07:56:30 | 11-10-2026| watch oshi-first-journey: 56% (49.26/87.00s)
+[1]Virly       |07:56:37 | 11-10-2026| watch oshi-first-journey: 63% (55.30/87.00s)
+[1]Virly       |07:56:43 | 11-10-2026| watch oshi-first-journey: 70% (61.67/87.00s)
+[1]Virly       |07:56:50 | 11-10-2026| watch oshi-first-journey: 77% (67.44/87.00s)
+[1]Virly       |07:56:57 | 11-10-2026| watch oshi-first-journey: 84% (73.86/87.00s)
+[1]Virly       |07:57:06 | 11-10-2026| watch oshi-first-journey: 91% (79.72/87.00s)
+[1]Virly       |07:57:06 | 11-10-2026| watch oshi-first-journey: COMPLETED (79.72/87.00s)
+--> [1]Virly menjalankan: Read Article
+[1]Virly       |07:57:08 | 11-10-2026| news: 24/24 artikel selesai dibaca
+[1]Virly       |07:57:10 | 11-10-2026| mint eligibility: {"userId":"1772028394500493312","youtube":{"url":"https://www.youtube.com/@virlyairina","status":"submitted","revision":"4239ae46-b6d7-4ffc-aadc-ed1da873d2a8","submittedAt":1791674178,"reviewedAt":179
+[1]Virly       |07:57:10 | 11-10-2026| news: semua artikel sudah dibaca
+--> [1]Virly menjalankan: Quiz Anime
+[1]Virly       |07:57:11 | 11-10-2026| quiz ep1: sudah dijawab
+[1]Virly       |07:57:11 | 11-10-2026| quiz ep2: sudah dijawab
+[1]Virly       |07:57:11 | 11-10-2026| quiz ep3: sudah dijawab
+[1]Virly       |07:57:11 | 11-10-2026| quiz ep4: sudah dijawab
+[1]Virly       |07:57:11 | 11-10-2026| quiz ep5: sudah dijawab
+[1]Virly       |07:57:11 | 11-10-2026| quiz ep6: sudah dijawab
+--> [1]Virly menjalankan: Music Missions (realtime, bisa lama!)
+[1]Virly       |07:57:16 | 11-10-2026| music memutar "記憶の名前" (224s)...
+[1]Virly       |07:57:27 | 11-10-2026| music "記憶の名前": 4% (9.0036/224s)
+[1]Virly       |07:57:38 | 11-10-2026| music "記憶の名前": 8% (19.262700000000002/224s)
+[1]Virly       |07:57:50 | 11-10-2026| music "記憶の名前": 13% (29.5272/224s)
+[1]Virly       |07:58:02 | 11-10-2026| music "記憶の名前": 17% (39.852900000000005/224s)
+[1]Virly       |07:58:15 | 11-10-2026| music "記憶の名前": 22% (50.759100000000004/224s)
+[1]Virly       |07:58:26 | 11-10-2026| music "記憶の名前": 27% (62.607600000000005/224s)
+[1]Virly       |07:58:38 | 11-10-2026| music "記憶の名前": 32% (72.6984/224s)
+[1]Virly       |07:58:50 | 11-10-2026| music "記憶の名前": 36% (82.7424/224s)
+[1]Virly       |07:59:03 | 11-10-2026| music "記憶の名前": 41% (94.0023/224s)
+[1]Virly       |07:59:15 | 11-10-2026| music "記憶の名前": 47% (105.55290000000001/224s)
+[1]Virly       |07:59:27 | 11-10-2026| music "記憶の名前": 51% (116.27550000000001/224s)
+[1]Virly       |07:59:38 | 11-10-2026| music "記憶の名前": 56% (126.9864/224s)
+[1]Virly       |07:59:49 | 11-10-2026| music "記憶の名前": 61% (137.1267/224s)
+[1]Virly       |08:00:01 | 11-10-2026| music "記憶の名前": 65% (147.3714/224s)
+[1]Virly       |08:00:15 | 11-10-2026| music "記憶の名前": 70% (157.8546/224s)
+[1]Virly       |08:00:27 | 11-10-2026| music "記憶の名前": 76% (170.5284/224s)
+[1]Virly       |08:00:38 | 11-10-2026| music "記憶の名前": 80% (180.9738/224s)
+[1]Virly       |08:00:39 | 11-10-2026| music "記憶の名前": selesai 180.9738s
+[1]Virly       |08:00:43 | 11-10-2026| music memutar "Smart Pocket" (232s)...
+[1]Virly       |08:00:54 | 11-10-2026| music "Smart Pocket": 3% (9.0009/232s)
+[1]Virly       |08:01:08 | 11-10-2026| music "Smart Pocket": 8% (19.299599999999998/232s)
+[1]Virly       |08:01:20 | 11-10-2026| music "Smart Pocket": 13% (31.6287/232s)
+[1]Virly       |08:01:31 | 11-10-2026| music "Smart Pocket": 18% (42.7239/232s)
+[1]Virly       |08:01:43 | 11-10-2026| music "Smart Pocket": 22% (52.9407/232s)
+[1]Virly       |08:01:56 | 11-10-2026| music "Smart Pocket": 27% (63.7011/232s)
+[1]Virly       |08:02:11 | 11-10-2026| music "Smart Pocket": 32% (74.7171/232s)
+[1]Virly       |08:02:23 | 11-10-2026| music "Smart Pocket": 38% (88.6104/232s)
+[1]Virly       |08:02:37 | 11-10-2026| music "Smart Pocket": 42% (99.7047/232s)
+[1]Virly       |08:02:49 | 11-10-2026| music "Smart Pocket": 48% (112.1814/232s)
+[1]Virly       |08:03:00 | 11-10-2026| music "Smart Pocket": 52% (122.3154/232s)
+[1]Virly       |08:03:14 | 11-10-2026| music "Smart Pocket": 57% (132.68699999999998/232s)
+[1]Virly       |08:03:25 | 11-10-2026| music "Smart Pocket": 62% (144.8046/232s)
+[1]Virly       |08:03:37 | 11-10-2026| music "Smart Pocket": 66% (155.376/232s)
+[1]Virly       |08:03:49 | 11-10-2026| music "Smart Pocket": 71% (165.7503/232s)
+[1]Virly       |08:04:00 | 11-10-2026| music "Smart Pocket": 76% (176.32170000000002/232s)
+[1]Virly       |08:04:11 | 11-10-2026| music "Smart Pocket": 80% (186.5097/232s)
+[1]Virly       |08:04:12 | 11-10-2026| music "Smart Pocket": 80% belum counted, lanjut ke 100%...
+[1]Virly       |08:04:24 | 11-10-2026| music "Smart Pocket": 85% (197.2152/232s)
+[1]Virly       |08:04:36 | 11-10-2026| music "Smart Pocket": 89% (207.99720000000002/232s)
+[1]Virly       |08:04:47 | 11-10-2026| music "Smart Pocket": 94% (218.75580000000002/232s)
+[1]Virly       |08:05:00 | 11-10-2026| music "Smart Pocket": 98% (229.05540000000002/232s)
+[1]Virly       |08:05:12 | 11-10-2026| music "Smart Pocket": 100% (232/232s)
+[1]Virly       |08:05:12 | 11-10-2026| music "Smart Pocket": selesai 232s
+[1]Virly       |08:05:15 | 11-10-2026| music memutar "神様みたいに" (254s)...
+[1]Virly       |08:05:29 | 11-10-2026| music "神様みたいに": 3% (9.0045/254s)
+[1]Virly       |08:05:43 | 11-10-2026| music "神様みたいに": 8% (20.840400000000002/254s)
+[1]Virly       |08:05:55 | 11-10-2026| music "神様みたいに": 13% (34.3008/254s)
+[1]Virly       |08:06:10 | 11-10-2026| music "神様みたいに": 17% (44.520300000000006/254s)
+[1]Virly       |08:06:25 | 11-10-2026| music "神様みたいに": 22% (57.870000000000005/254s)
+[1]Virly       |08:06:36 | 11-10-2026| music "神様みたいに": 28% (71.6517/254s)
+[1]Virly       |08:06:50 | 11-10-2026| music "神様みたいに": 32% (81.88650000000001/254s)
+[1]Virly       |08:07:03 | 11-10-2026| music "神様みたいに": 36% (93.84750000000001/254s)
+[1]Virly       |08:07:15 | 11-10-2026| music "神様みたいに": 41% (105.97680000000001/254s)
+[1]Virly       |08:07:27 | 11-10-2026| music "神様みたいに": 45% (116.42670000000001/254s)
+[1]Virly       |08:07:39 | 11-10-2026| music "神様みたいに": 50% (127.00890000000001/254s)
+[1]Virly       |08:07:51 | 11-10-2026| music "神様みたいに": 54% (138.0978/254s)
+[1]Virly       |08:08:02 | 11-10-2026| music "神様みたいに": 58% (148.66830000000002/254s)
+[1]Virly       |08:08:14 | 11-10-2026| music "神様みたいに": 62% (159.1065/254s)
+[1]Virly       |08:08:27 | 11-10-2026| music "神様みたいに": 66% (169.5402/254s)
+[1]Virly       |08:08:40 | 11-10-2026| music "神様みたいに": 71% (181.6137/254s)
+[1]Virly       |08:08:53 | 11-10-2026| music "神様みたいに": 76% (193.52249999999998/254s)
+[1]Virly       |08:09:13 | 11-10-2026| music "神様みたいに": 80% (204.5142/254s)
+[1]Virly       |08:09:14 | 11-10-2026| music "神様みたいに": 80% belum counted, lanjut ke 100%...
+[1]Virly       |08:09:25 | 11-10-2026| music "神様みたいに": 88% (224.0172/254s)
+[1]Virly       |08:09:36 | 11-10-2026| music "神様みたいに": 92% (233.9901/254s)
+[1]Virly       |08:09:48 | 11-10-2026| music "神様みたいに": 96% (243.9729/254s)
+[1]Virly       |08:09:59 | 11-10-2026| music "神様みたいに": 99% (253.93050000000002/254s)
+[1]Virly       |08:10:10 | 11-10-2026| music "神様みたいに": 100% (254/254s)
+[1]Virly       |08:10:10 | 11-10-2026| music "神様みたいに": selesai 254s
+[1]Virly       |08:10:12 | 11-10-2026| music memutar "せーので、飛ぼう！" (269s)...
+[1]Virly       |08:10:23 | 11-10-2026| music "せーので、飛ぼう！": 3% (9.0045/269s)
+[1]Virly       |08:10:34 | 11-10-2026| music "せーので、飛ぼう！": 7% (18.927/269s)
+[1]Virly       |08:10:46 | 11-10-2026| music "せーので、飛ぼう！": 10% (28.820700000000002/269s)
+[1]Virly       |08:10:58 | 11-10-2026| music "せーので、飛ぼう！": 14% (39.7548/269s)
+[1]Virly       |08:11:10 | 11-10-2026| music "せーので、飛ぼう！": 18% (50.5548/269s)
+[1]Virly       |08:11:23 | 11-10-2026| music "せーので、飛ぼう！": 22% (61.2054/269s)
+[1]Virly       |08:11:37 | 11-10-2026| music "せーので、飛ぼう！": 27% (73.0422/269s)
+[1]Virly       |08:11:48 | 11-10-2026| music "せーので、飛ぼう！": 31% (85.6107/269s)
+[1]Virly       |08:11:59 | 11-10-2026| music "せーので、飛ぼう！": 35% (95.56379999999999/269s)
+[1]Virly       |08:12:12 | 11-10-2026| music "せーので、飛ぼう！": 39% (105.4998/269s)
+[1]Virly       |08:12:23 | 11-10-2026| music "せーので、飛ぼう！": 43% (116.6292/269s)
+[1]Virly       |08:12:34 | 11-10-2026| music "せーので、飛ぼう！": 47% (126.693/269s)
+[1]Virly       |08:12:45 | 11-10-2026| music "せーので、飛ぼう！": 50% (137.0502/269s)
+[1]Virly       |08:12:57 | 11-10-2026| music "せーので、飛ぼう！": 54% (147.006/269s)
+[1]Virly       |08:13:08 | 11-10-2026| music "せーので、飛ぼう！": 58% (157.2336/269s)
+[1]Virly       |08:13:19 | 11-10-2026| music "せーので、飛ぼう！": 62% (167.2002/269s)
+[1]Virly       |08:13:30 | 11-10-2026| music "せーので、飛ぼう！": 65% (177.1569/269s)
+[1]Virly       |08:13:43 | 11-10-2026| music "せーので、飛ぼう！": 69% (187.3476/269s)
+[1]Virly       |08:13:55 | 11-10-2026| music "せーので、飛ぼう！": 73% (199.0395/269s)
+[1]Virly       |08:14:06 | 11-10-2026| music "せーので、飛ぼう！": 77% (209.4084/269s)
+[1]Virly       |08:14:17 | 11-10-2026| music "せーので、飛ぼう！": 81% (219.33/269s)
+[1]Virly       |08:14:18 | 11-10-2026| music "せーので、飛ぼう！": selesai 219.33s
+[1]Virly       |08:14:21 | 11-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
+[1]Virly       |08:14:35 | 11-10-2026| music "ON CHAIN NEXUS": 3% (9.0027/276s)
+[1]Virly       |08:14:49 | 11-10-2026| music "ON CHAIN NEXUS": 7% (21.3885/276s)
+[1]Virly       |08:15:00 | 11-10-2026| music "ON CHAIN NEXUS": 12% (33.691500000000005/276s)
+[1]Virly       |08:15:11 | 11-10-2026| music "ON CHAIN NEXUS": 15% (43.79220000000001/276s)
+[1]Virly       |08:15:22 | 11-10-2026| music "ON CHAIN NEXUS": 19% (53.72280000000001/276s)
+[1]Virly       |08:15:33 | 11-10-2026| music "ON CHAIN NEXUS": 23% (63.85860000000001/276s)
+[1]Virly       |08:15:46 | 11-10-2026| music "ON CHAIN NEXUS": 26% (73.78470000000002/276s)
+[1]Virly       |08:15:57 | 11-10-2026| music "ON CHAIN NEXUS": 30% (84.93210000000002/276s)
+[1]Virly       |08:16:08 | 11-10-2026| music "ON CHAIN NEXUS": 34% (94.84560000000002/276s)
+[1]Virly       |08:16:22 | 11-10-2026| music "ON CHAIN NEXUS": 38% (105.52410000000002/276s)
+[1]Virly       |08:16:33 | 11-10-2026| music "ON CHAIN NEXUS": 42% (117.64440000000002/276s)
+[1]Virly       |08:16:44 | 11-10-2026| music "ON CHAIN NEXUS": 46% (127.54890000000002/276s)
+[1]Virly       |08:16:55 | 11-10-2026| music "ON CHAIN NEXUS": 49% (137.56500000000003/276s)
+[1]Virly       |08:17:08 | 11-10-2026| music "ON CHAIN NEXUS": 53% (147.53520000000003/276s)
+[1]Virly       |08:17:20 | 11-10-2026| music "ON CHAIN NEXUS": 57% (158.90130000000002/276s)
+[1]Virly       |08:17:34 | 11-10-2026| music "ON CHAIN NEXUS": 61% (169.50870000000003/276s)
+[1]Virly       |08:17:47 | 11-10-2026| music "ON CHAIN NEXUS": 66% (182.73150000000004/276s)
+[1]Virly       |08:17:59 | 11-10-2026| music "ON CHAIN NEXUS": 70% (194.05710000000005/276s)
+[1]Virly       |08:18:10 | 11-10-2026| music "ON CHAIN NEXUS": 74% (205.07400000000004/276s)
+[1]Virly       |08:18:22 | 11-10-2026| music "ON CHAIN NEXUS": 77% (215.06400000000005/276s)
+[1]Virly       |08:18:33 | 11-10-2026| music "ON CHAIN NEXUS": 81% (225.32580000000004/276s)
+[1]Virly       |08:18:33 | 11-10-2026| music "ON CHAIN NEXUS": selesai 225.32580000000004s
+[1]Virly       |08:18:35 | 11-10-2026| music: kedua misi sudah tercapai, stop
+[1]Virly       |08:18:37 | 11-10-2026| mission music-listens-10: CLAIM OK +10 poin
+[1]Virly       |08:18:41 | 11-10-2026| mission music-minutes-30: CLAIM OK +10 poin
+[1]Virly       |08:18:48 | 11-10-2026| mission anime-completed-3: CLAIM OK +10 poin
+--> [1]Virly menjalankan: Claim Missions
+[1]Virly       |08:18:53 | 11-10-2026| mission music-listens-10: sudah diklaim
+[1]Virly       |08:18:53 | 11-10-2026| mission music-minutes-30: sudah diklaim
+[1]Virly       |08:18:53 | 11-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Virly menjalankan: Check Eligibility
+
+--- eligibility [1]Virly ---
+  @virlyairina | score=920 rank=6361
+  tasks    [###################-] 73/76
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
+
+--> [1]Virly menjalankan: Read Manga
+[1]Virly       |08:18:57 | 11-10-2026| manga: 13/13 chapter belum completed
+[1]Virly       |08:18:57 | 11-10-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Virly       |08:19:03 | 11-10-2026| manga ch1 (1): page 1/19 (5%) 0s
+[1]Virly       |08:19:07 | 11-10-2026| manga ch1 (1): page 2/19 (10%) 5s
+[1]Virly       |08:19:13 | 11-10-2026| manga ch1 (1): page 3/19 (15%) 9s
+[1]Virly       |08:19:17 | 11-10-2026| manga ch1 (1): page 4/19 (21%) 14s
+[1]Virly       |08:19:22 | 11-10-2026| manga ch1 (1): page 5/19 (26%) 19s
+[1]Virly       |08:19:29 | 11-10-2026| manga ch1 (1): page 6/19 (31%) 24s
+[1]Virly       |08:19:34 | 11-10-2026| manga ch1 (1): page 7/19 (36%) 31s
+[1]Virly       |08:19:39 | 11-10-2026| manga ch1 (1): page 8/19 (42%) 36s
+[1]Virly       |08:19:44 | 11-10-2026| manga ch1 (1): page 9/19 (47%) 41s
+[1]Virly       |08:19:53 | 11-10-2026| manga ch1 (1): page 10/19 (52%) 46s
+[1]Virly       |08:19:58 | 11-10-2026| manga ch1 (1): page 11/19 (57%) 54s
+[1]Virly       |08:20:02 | 11-10-2026| manga ch1 (1): page 12/19 (63%) 60s
+[1]Virly       |08:20:08 | 11-10-2026| manga ch1 (1): page 13/19 (68%) 64s
+[1]Virly       |08:20:13 | 11-10-2026| manga ch1 (1): page 14/19 (73%) 69s
+[1]Virly       |08:20:18 | 11-10-2026| manga ch1 (1): page 15/19 (78%) 75s
+[1]Virly       |08:20:23 | 11-10-2026| manga ch1 (1): page 16/19 (84%) 79s
+[1]Virly       |08:20:29 | 11-10-2026| manga ch1 (1): page 17/19 (89%) 85s
+[1]Virly       |08:20:35 | 11-10-2026| manga ch1 (1): page 18/19 (94%) 91s
+[1]Virly       |08:20:41 | 11-10-2026| manga ch1 (1): page 19/19 (99%) 96s
+[1]Virly       |08:20:46 | 11-10-2026| manga ch1 (1): COMPLETED
+[1]Virly       |08:20:49 | 11-10-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Virly       |08:21:01 | 11-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
+[1]Virly       |08:21:06 | 11-10-2026| manga ch2 (450001): page 2/18 (11%) 10s
+[1]Virly       |08:21:10 | 11-10-2026| manga ch2 (450001): page 3/18 (16%) 15s
+[1]Virly       |08:21:15 | 11-10-2026| manga ch2 (450001): page 4/18 (22%) 19s
+[1]Virly       |08:21:20 | 11-10-2026| manga ch2 (450001): page 5/18 (27%) 24s
+[1]Virly       |08:21:25 | 11-10-2026| manga ch2 (450001): page 6/18 (33%) 29s
+[1]Virly       |08:21:31 | 11-10-2026| manga ch2 (450001): page 7/18 (38%) 34s
+[1]Virly       |08:21:37 | 11-10-2026| manga ch2 (450001): page 8/18 (44%) 40s
+[1]Virly       |08:21:41 | 11-10-2026| manga ch2 (450001): page 9/18 (50%) 46s
+[1]Virly       |08:21:47 | 11-10-2026| manga ch2 (450001): page 10/18 (55%) 50s
+[1]Virly       |08:21:52 | 11-10-2026| manga ch2 (450001): page 11/18 (61%) 56s
+[1]Virly       |08:21:57 | 11-10-2026| manga ch2 (450001): page 12/18 (66%) 61s
+[1]Virly       |08:22:01 | 11-10-2026| manga ch2 (450001): page 13/18 (72%) 65s
+[1]Virly       |08:22:07 | 11-10-2026| manga ch2 (450001): page 14/18 (77%) 70s
+[1]Virly       |08:22:11 | 11-10-2026| manga ch2 (450001): page 15/18 (83%) 76s
+[1]Virly       |08:22:16 | 11-10-2026| manga ch2 (450001): page 16/18 (88%) 80s
+[1]Virly       |08:22:21 | 11-10-2026| manga ch2 (450001): page 17/18 (94%) 85s
+[1]Virly       |08:22:27 | 11-10-2026| manga ch2 (450001): page 18/18 (99%) 89s
+[1]Virly       |08:22:32 | 11-10-2026| manga ch2 (450001): COMPLETED
+[1]Virly       |08:22:35 | 11-10-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Virly       |08:22:42 | 11-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
+[1]Virly       |08:22:46 | 11-10-2026| manga ch3 (2160001): page 2/17 (11%) 6s
+[1]Virly       |08:22:51 | 11-10-2026| manga ch3 (2160001): page 3/17 (17%) 10s
+[1]Virly       |08:22:56 | 11-10-2026| manga ch3 (2160001): page 4/17 (23%) 15s
+[1]Virly       |08:23:00 | 11-10-2026| manga ch3 (2160001): page 5/17 (29%) 19s
+[1]Virly       |08:23:05 | 11-10-2026| manga ch3 (2160001): page 6/17 (35%) 24s
+[1]Virly       |08:23:10 | 11-10-2026| manga ch3 (2160001): page 7/17 (41%) 29s
+[1]Virly       |08:23:16 | 11-10-2026| manga ch3 (2160001): page 8/17 (47%) 34s
+[1]Virly       |08:23:22 | 11-10-2026| manga ch3 (2160001): page 9/17 (52%) 40s
+[1]Virly       |08:23:26 | 11-10-2026| manga ch3 (2160001): page 10/17 (58%) 45s
+[1]Virly       |08:23:31 | 11-10-2026| manga ch3 (2160001): page 11/17 (64%) 50s
+[1]Virly       |08:23:37 | 11-10-2026| manga ch3 (2160001): page 12/17 (70%) 55s
+[1]Virly       |08:23:42 | 11-10-2026| manga ch3 (2160001): page 13/17 (76%) 61s
+[1]Virly       |08:23:48 | 11-10-2026| manga ch3 (2160001): page 14/17 (82%) 66s
+[1]Virly       |08:23:52 | 11-10-2026| manga ch3 (2160001): page 15/17 (88%) 72s
+[1]Virly       |08:24:01 | 11-10-2026| manga ch3 (2160001): page 16/17 (94%) 76s
+[1]Virly       |08:24:07 | 11-10-2026| manga ch3 (2160001): page 17/17 (99%) 84s
+[1]Virly       |08:24:11 | 11-10-2026| manga ch3 (2160001): COMPLETED
+[1]Virly       |08:24:14 | 11-10-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Virly       |08:24:21 | 11-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
+[1]Virly       |08:24:27 | 11-10-2026| manga ch4 (2400001): page 2/17 (11%) 5s
+[1]Virly       |08:24:32 | 11-10-2026| manga ch4 (2400001): page 3/17 (17%) 11s
+[1]Virly       |08:24:39 | 11-10-2026| manga ch4 (2400001): page 4/17 (23%) 16s
+[1]Virly       |08:24:43 | 11-10-2026| manga ch4 (2400001): page 5/17 (29%) 22s
+[1]Virly       |08:24:48 | 11-10-2026| manga ch4 (2400001): page 6/17 (35%) 27s
+[1]Virly       |08:24:52 | 11-10-2026| manga ch4 (2400001): page 7/17 (41%) 31s
+[1]Virly       |08:24:59 | 11-10-2026| manga ch4 (2400001): page 8/17 (47%) 36s
+[1]Virly       |08:25:04 | 11-10-2026| manga ch4 (2400001): page 9/17 (52%) 43s
+[1]Virly       |08:25:08 | 11-10-2026| manga ch4 (2400001): page 10/17 (58%) 47s
+[1]Virly       |08:25:13 | 11-10-2026| manga ch4 (2400001): page 11/17 (64%) 52s
+[1]Virly       |08:25:18 | 11-10-2026| manga ch4 (2400001): page 12/17 (70%) 56s
+[1]Virly       |08:25:23 | 11-10-2026| manga ch4 (2400001): page 13/17 (76%) 62s
+[1]Virly       |08:25:27 | 11-10-2026| manga ch4 (2400001): page 14/17 (82%) 66s
+[1]Virly       |08:25:32 | 11-10-2026| manga ch4 (2400001): page 15/17 (88%) 71s
+[1]Virly       |08:25:39 | 11-10-2026| manga ch4 (2400001): page 16/17 (94%) 76s
+[1]Virly       |08:25:45 | 11-10-2026| manga ch4 (2400001): page 17/17 (99%) 82s
+[1]Virly       |08:25:50 | 11-10-2026| manga ch4 (2400001): COMPLETED
+[1]Virly       |08:25:53 | 11-10-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Virly       |08:25:59 | 11-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
+[1]Virly       |08:26:04 | 11-10-2026| manga ch5 (2490001): page 2/18 (11%) 5s
+[1]Virly       |08:26:10 | 11-10-2026| manga ch5 (2490001): page 3/18 (16%) 9s
+[1]Virly       |08:26:15 | 11-10-2026| manga ch5 (2490001): page 4/18 (22%) 15s
+[1]Virly       |08:26:20 | 11-10-2026| manga ch5 (2490001): page 5/18 (27%) 21s
+[1]Virly       |08:26:27 | 11-10-2026| manga ch5 (2490001): page 6/18 (33%) 26s
+[1]Virly       |08:26:32 | 11-10-2026| manga ch5 (2490001): page 7/18 (38%) 32s
+[1]Virly       |08:26:38 | 11-10-2026| manga ch5 (2490001): page 8/18 (44%) 38s
+[1]Virly       |08:26:43 | 11-10-2026| manga ch5 (2490001): page 9/18 (50%) 43s
+[1]Virly       |08:26:47 | 11-10-2026| manga ch5 (2490001): page 10/18 (55%) 48s
+[1]Virly       |08:26:53 | 11-10-2026| manga ch5 (2490001): page 11/18 (61%) 53s
+[1]Virly       |08:26:58 | 11-10-2026| manga ch5 (2490001): page 12/18 (66%) 59s
+[1]Virly       |08:27:04 | 11-10-2026| manga ch5 (2490001): page 13/18 (72%) 64s
+[1]Virly       |08:27:09 | 11-10-2026| manga ch5 (2490001): page 14/18 (77%) 69s
+[1]Virly       |08:27:16 | 11-10-2026| manga ch5 (2490001): page 15/18 (83%) 75s
+[1]Virly       |08:27:22 | 11-10-2026| manga ch5 (2490001): page 16/18 (88%) 82s
+[1]Virly       |08:27:27 | 11-10-2026| manga ch5 (2490001): page 17/18 (94%) 87s
+[1]Virly       |08:27:33 | 11-10-2026| manga ch5 (2490001): page 18/18 (99%) 92s
+[1]Virly       |08:27:38 | 11-10-2026| manga ch5 (2490001): COMPLETED
+[1]Virly       |08:27:41 | 11-10-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Virly       |08:27:49 | 11-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
+[1]Virly       |08:27:54 | 11-10-2026| manga ch6 (2610001): page 2/17 (11%) 5s
+[1]Virly       |08:27:58 | 11-10-2026| manga ch6 (2610001): page 3/17 (17%) 10s
+[1]Virly       |08:28:04 | 11-10-2026| manga ch6 (2610001): page 4/17 (23%) 14s
+[1]Virly       |08:28:08 | 11-10-2026| manga ch6 (2610001): page 5/17 (29%) 20s
+[1]Virly       |08:28:13 | 11-10-2026| manga ch6 (2610001): page 6/17 (35%) 24s
+[1]Virly       |08:28:19 | 11-10-2026| manga ch6 (2610001): page 7/17 (41%) 29s
+[1]Virly       |08:28:24 | 11-10-2026| manga ch6 (2610001): page 8/17 (47%) 35s
+[1]Virly       |08:28:32 | 11-10-2026| manga ch6 (2610001): page 9/17 (52%) 40s
+[1]Virly       |08:28:38 | 11-10-2026| manga ch6 (2610001): page 10/17 (58%) 48s
+[1]Virly       |08:28:43 | 11-10-2026| manga ch6 (2610001): page 11/17 (64%) 54s
+[1]Virly       |08:28:48 | 11-10-2026| manga ch6 (2610001): page 12/17 (70%) 59s
+[1]Virly       |08:28:53 | 11-10-2026| manga ch6 (2610001): page 13/17 (76%) 64s
+[1]Virly       |08:28:58 | 11-10-2026| manga ch6 (2610001): page 14/17 (82%) 69s
+[1]Virly       |08:29:04 | 11-10-2026| manga ch6 (2610001): page 15/17 (88%) 74s
+[1]Virly       |08:29:09 | 11-10-2026| manga ch6 (2610001): page 16/17 (94%) 80s
+[1]Virly       |08:29:15 | 11-10-2026| manga ch6 (2610001): page 17/17 (99%) 85s
+[1]Virly       |08:29:20 | 11-10-2026| manga ch6 (2610001): COMPLETED
+[1]Virly       |08:29:23 | 11-10-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Virly       |08:29:28 | 11-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
+[1]Virly       |08:29:35 | 11-10-2026| manga ch1 (180003): page 2/21 (9%) 5s
+[1]Virly       |08:29:41 | 11-10-2026| manga ch1 (180003): page 3/21 (14%) 11s
+[1]Virly       |08:29:47 | 11-10-2026| manga ch1 (180003): page 4/21 (19%) 17s
+[1]Virly       |08:29:54 | 11-10-2026| manga ch1 (180003): page 5/21 (23%) 24s
+[1]Virly       |08:29:59 | 11-10-2026| manga ch1 (180003): page 6/21 (28%) 30s
+[1]Virly       |08:30:05 | 11-10-2026| manga ch1 (180003): page 7/21 (33%) 35s
+[1]Virly       |08:30:10 | 11-10-2026| manga ch1 (180003): page 8/21 (38%) 41s
+[1]Virly       |08:30:14 | 11-10-2026| manga ch1 (180003): page 9/21 (42%) 46s
+[1]Virly       |08:30:19 | 11-10-2026| manga ch1 (180003): page 10/21 (47%) 51s
+[1]Virly       |08:30:26 | 11-10-2026| manga ch1 (180003): page 11/21 (52%) 55s
+[1]Virly       |08:30:32 | 11-10-2026| manga ch1 (180003): page 12/21 (57%) 63s
+[1]Virly       |08:30:37 | 11-10-2026| manga ch1 (180003): page 13/21 (61%) 68s
+[1]Virly       |08:30:43 | 11-10-2026| manga ch1 (180003): page 14/21 (66%) 73s
+[1]Virly       |08:30:48 | 11-10-2026| manga ch1 (180003): page 15/21 (71%) 79s
+[1]Virly       |08:30:54 | 11-10-2026| manga ch1 (180003): page 16/21 (76%) 85s
+[1]Virly       |08:31:00 | 11-10-2026| manga ch1 (180003): page 17/21 (80%) 91s
+[1]Virly       |08:31:06 | 11-10-2026| manga ch1 (180003): page 18/21 (85%) 96s
+[1]Virly       |08:31:11 | 11-10-2026| manga ch1 (180003): page 19/21 (90%) 103s
+[1]Virly       |08:31:16 | 11-10-2026| manga ch1 (180003): page 20/21 (95%) 107s
+[1]Virly       |08:31:22 | 11-10-2026| manga ch1 (180003): page 21/21 (99%) 112s
+[1]Virly       |08:31:28 | 11-10-2026| manga ch1 (180003): COMPLETED
+[1]Virly       |08:31:31 | 11-10-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Virly       |08:31:37 | 11-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
+[1]Virly       |08:31:42 | 11-10-2026| manga ch2 (990005): page 2/18 (11%) 5s
+[1]Virly       |08:31:47 | 11-10-2026| manga ch2 (990005): page 3/18 (16%) 10s
+[1]Virly       |08:31:52 | 11-10-2026| manga ch2 (990005): page 4/18 (22%) 15s
+[1]Virly       |08:31:56 | 11-10-2026| manga ch2 (990005): page 5/18 (27%) 20s
+[1]Virly       |08:32:02 | 11-10-2026| manga ch2 (990005): page 6/18 (33%) 24s
+[1]Virly       |08:32:07 | 11-10-2026| manga ch2 (990005): page 7/18 (38%) 30s
+[1]Virly       |08:32:13 | 11-10-2026| manga ch2 (990005): page 8/18 (44%) 35s
+[1]Virly       |08:32:17 | 11-10-2026| manga ch2 (990005): page 9/18 (50%) 41s
+[1]Virly       |08:32:22 | 11-10-2026| manga ch2 (990005): page 10/18 (55%) 45s
+[1]Virly       |08:32:27 | 11-10-2026| manga ch2 (990005): page 11/18 (61%) 50s
+[1]Virly       |08:32:32 | 11-10-2026| manga ch2 (990005): page 12/18 (66%) 55s
+[1]Virly       |08:32:36 | 11-10-2026| manga ch2 (990005): page 13/18 (72%) 60s
+[1]Virly       |08:32:41 | 11-10-2026| manga ch2 (990005): page 14/18 (77%) 64s
+[1]Virly       |08:32:45 | 11-10-2026| manga ch2 (990005): page 15/18 (83%) 69s
+[1]Virly       |08:32:50 | 11-10-2026| manga ch2 (990005): page 16/18 (88%) 73s
+[1]Virly       |08:32:55 | 11-10-2026| manga ch2 (990005): page 17/18 (94%) 78s
+[1]Virly       |08:33:00 | 11-10-2026| manga ch2 (990005): page 18/18 (99%) 83s
+[1]Virly       |08:33:05 | 11-10-2026| manga ch2 (990005): COMPLETED
+[1]Virly       |08:33:08 | 11-10-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Virly       |08:33:15 | 11-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
+[1]Virly       |08:33:21 | 11-10-2026| manga ch3 (1980001): page 2/20 (10%) 6s
+[1]Virly       |08:33:26 | 11-10-2026| manga ch3 (1980001): page 3/20 (15%) 12s
+[1]Virly       |08:33:31 | 11-10-2026| manga ch3 (1980001): page 4/20 (20%) 17s
+[1]Virly       |08:33:35 | 11-10-2026| manga ch3 (1980001): page 5/20 (25%) 22s
+[1]Virly       |08:33:40 | 11-10-2026| manga ch3 (1980001): page 6/20 (30%) 26s
+[1]Virly       |08:33:45 | 11-10-2026| manga ch3 (1980001): page 7/20 (35%) 31s
+[1]Virly       |08:33:50 | 11-10-2026| manga ch3 (1980001): page 8/20 (40%) 36s
+[1]Virly       |08:33:57 | 11-10-2026| manga ch3 (1980001): page 9/20 (45%) 41s
+[1]Virly       |08:34:02 | 11-10-2026| manga ch3 (1980001): page 10/20 (50%) 48s
+[1]Virly       |08:34:07 | 11-10-2026| manga ch3 (1980001): page 11/20 (55%) 53s
+[1]Virly       |08:34:12 | 11-10-2026| manga ch3 (1980001): page 12/20 (60%) 58s
+[1]Virly       |08:34:19 | 11-10-2026| manga ch3 (1980001): page 13/20 (65%) 63s
+[1]Virly       |08:34:24 | 11-10-2026| manga ch3 (1980001): page 14/20 (70%) 70s
+[1]Virly       |08:34:29 | 11-10-2026| manga ch3 (1980001): page 15/20 (75%) 75s
+[1]Virly       |08:34:34 | 11-10-2026| manga ch3 (1980001): page 16/20 (80%) 80s
+[1]Virly       |08:34:38 | 11-10-2026| manga ch3 (1980001): page 17/20 (85%) 85s
+[1]Virly       |08:34:43 | 11-10-2026| manga ch3 (1980001): page 18/20 (90%) 89s
+[1]Virly       |08:34:48 | 11-10-2026| manga ch3 (1980001): page 19/20 (95%) 94s
+[1]Virly       |08:34:53 | 11-10-2026| manga ch3 (1980001): page 20/20 (99%) 99s
+[1]Virly       |08:34:59 | 11-10-2026| manga ch3 (1980001): COMPLETED
+[1]Virly       |08:35:02 | 11-10-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Virly       |08:35:10 | 11-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
+[1]Virly       |08:35:17 | 11-10-2026| manga ch1 (2100001): page 2/9 (22%) 7s
+[1]Virly       |08:35:21 | 11-10-2026| manga ch1 (2100001): page 3/9 (33%) 13s
+[1]Virly       |08:35:28 | 11-10-2026| manga ch1 (2100001): page 4/9 (44%) 18s
+[1]Virly       |08:35:35 | 11-10-2026| manga ch1 (2100001): page 5/9 (55%) 24s
+[1]Virly       |08:35:40 | 11-10-2026| manga ch1 (2100001): page 6/9 (66%) 31s
+[1]Virly       |08:35:44 | 11-10-2026| manga ch1 (2100001): page 7/9 (77%) 36s
+[1]Virly       |08:35:49 | 11-10-2026| manga ch1 (2100001): page 8/9 (88%) 41s
+[1]Virly       |08:35:53 | 11-10-2026| manga ch1 (2100001): page 9/9 (99%) 45s
+[1]Virly       |08:35:59 | 11-10-2026| manga ch1 (2100001): COMPLETED
+[1]Virly       |08:36:02 | 11-10-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Virly       |08:36:11 | 11-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
+[1]Virly       |08:36:17 | 11-10-2026| manga ch1 (2070001): page 2/10 (20%) 5s
+[1]Virly       |08:36:22 | 11-10-2026| manga ch1 (2070001): page 3/10 (30%) 11s
+[1]Virly       |08:36:27 | 11-10-2026| manga ch1 (2070001): page 4/10 (40%) 17s
+[1]Virly       |08:36:32 | 11-10-2026| manga ch1 (2070001): page 5/10 (50%) 21s
+[1]Virly       |08:36:36 | 11-10-2026| manga ch1 (2070001): page 6/10 (60%) 26s
+[1]Virly       |08:36:43 | 11-10-2026| manga ch1 (2070001): page 7/10 (70%) 31s
+[1]Virly       |08:36:48 | 11-10-2026| manga ch1 (2070001): page 8/10 (80%) 37s
+[1]Virly       |08:36:53 | 11-10-2026| manga ch1 (2070001): page 9/10 (90%) 42s
+[1]Virly       |08:36:58 | 11-10-2026| manga ch1 (2070001): page 10/10 (99%) 48s
+[1]Virly       |08:37:02 | 11-10-2026| manga ch1 (2070001): COMPLETED
+[1]Virly       |08:37:05 | 11-10-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Virly       |08:37:11 | 11-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
+[1]Virly       |08:37:16 | 11-10-2026| manga ch2 (2520001): page 2/11 (18%) 5s
+[1]Virly       |08:37:20 | 11-10-2026| manga ch2 (2520001): page 3/11 (27%) 10s
+[1]Virly       |08:37:25 | 11-10-2026| manga ch2 (2520001): page 4/11 (36%) 14s
+[1]Virly       |08:37:30 | 11-10-2026| manga ch2 (2520001): page 5/11 (45%) 19s
+[1]Virly       |08:37:35 | 11-10-2026| manga ch2 (2520001): page 6/11 (54%) 24s
+[1]Virly       |08:37:40 | 11-10-2026| manga ch2 (2520001): page 7/11 (63%) 29s
+[1]Virly       |08:37:44 | 11-10-2026| manga ch2 (2520001): page 8/11 (72%) 34s
+[1]Virly       |08:37:49 | 11-10-2026| manga ch2 (2520001): page 9/11 (81%) 38s
+[1]Virly       |08:37:55 | 11-10-2026| manga ch2 (2520001): page 10/11 (90%) 43s
+[1]Virly       |08:38:00 | 11-10-2026| manga ch2 (2520001): page 11/11 (99%) 48s
+[1]Virly       |08:38:04 | 11-10-2026| manga ch2 (2520001): COMPLETED
+[1]Virly       |08:38:07 | 11-10-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Virly       |08:38:13 | 11-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
+[1]Virly       |08:38:18 | 11-10-2026| manga ch3 (2550001): page 2/11 (18%) 5s
+[1]Virly       |08:38:22 | 11-10-2026| manga ch3 (2550001): page 3/11 (27%) 9s
+[1]Virly       |08:38:27 | 11-10-2026| manga ch3 (2550001): page 4/11 (36%) 14s
+[1]Virly       |08:38:33 | 11-10-2026| manga ch3 (2550001): page 5/11 (45%) 18s
+[1]Virly       |08:38:42 | 11-10-2026| manga ch3 (2550001): page 6/11 (54%) 24s
+[1]Virly       |08:38:47 | 11-10-2026| manga ch3 (2550001): page 7/11 (63%) 34s
+[1]Virly       |08:38:53 | 11-10-2026| manga ch3 (2550001): page 8/11 (72%) 38s
+[1]Virly       |08:38:59 | 11-10-2026| manga ch3 (2550001): page 9/11 (81%) 45s
+[1]Virly       |08:39:03 | 11-10-2026| manga ch3 (2550001): page 10/11 (90%) 50s
+[1]Virly       |08:39:11 | 11-10-2026| manga ch3 (2550001): page 11/11 (99%) 55s
+[1]Virly       |08:39:16 | 11-10-2026| manga ch3 (2550001): COMPLETED
+--> [1]Virly menjalankan: Get Gift
+[1]Virly       |08:39:20 | 11-10-2026| gift: 3/3 belum diterima
+[1]Virly       |08:39:22 | 11-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
+[1]Virly       |08:39:25 | 11-10-2026| gift [2/3] Osshi animated stickers: OK
+[1]Virly       |08:39:28 | 11-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
+--> [1]Virly menjalankan: Setup Profile
+[1]Virly       |08:39:32 | 11-10-2026| profile: bio="" fav=- rewardAt=-
+[1]Virly       |08:39:35 | 11-10-2026| profile: OK bio="https://x.com/virlyairina" fav=kagura awarded=true +10pt
+--> [1]Virly menjalankan: Bind Wallet
+[1]Virly       |08:39:36 | 11-10-2026| wallet: derivasi dari privateKeySolana -> A98e9F53sWsiGqiptpVvvogk6F5tCvEo9iEn6LoVZ8o2 (cek cocok dengan wallet kamu!)
+[1]Virly       |08:39:37 | 11-10-2026| wallet: /api/wallet OK (solana)
+[1]Virly       |08:39:38 | 11-10-2026| wallet: /api/sol-address OK
+
+== RINGKASAN ==
+- Virly: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 5 trek ~1111.6296s | artikel 0 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
