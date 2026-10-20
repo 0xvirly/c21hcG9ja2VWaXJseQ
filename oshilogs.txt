@@ -12,58 +12,70 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Virly =====
-[1]Virly       |05:34:47 | 19-10-2026| login OK @virlyairina | score=1460 rank=4612
-[1]Virly       |05:34:47 | 19-10-2026| serverTime=2026-10-19T05:34:47.000Z local=2026-10-19T05:34:47.848Z
+[1]Virly       |05:37:06 | 20-10-2026| login OK @virlyairina | score=1520 rank=4597
+[1]Virly       |05:37:06 | 20-10-2026| serverTime=2026-10-20T05:37:06.000Z local=2026-10-20T05:37:06.229Z
 --> [1]Virly menjalankan: Claim Daily
-[1]Virly       |05:34:49 | 19-10-2026| daily: OK +10 poin score=1470
---> [1]Virly menjalankan: Auto All Tasks (5 pending)
-[1]Virly       |05:34:52 | 19-10-2026| [1/5] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/virlyairina/status/2112054321253470895
-[1]Virly       |05:34:52 | 19-10-2026| delay 10s...
-[1]Virly       |05:35:05 | 19-10-2026| [2/5] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/virlyairina/status/2112054573993674386
-[1]Virly       |05:35:05 | 19-10-2026| delay 10s...
-[1]Virly       |05:35:19 | 19-10-2026| [3/5] de7bf305 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/virlyairina/status/2112054439369751098
-[1]Virly       |05:35:19 | 19-10-2026| delay 10s...
-[1]Virly       |05:35:35 | 19-10-2026| [4/5] f2efc21b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/virlyairina/status/2112054733767520399
-[1]Virly       |05:35:35 | 19-10-2026| delay 10s...
-[1]Virly       |05:35:48 | 19-10-2026| [5/5] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/virlyairina/status/2112054455218934313
-[1]Virly       |05:35:48 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Virly       |05:35:50 | 19-10-2026| [1/1] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111998437793382 | proof=https://x.com/virlyairina/status/2112054760163859092
+[1]Virly       |05:37:07 | 20-10-2026| daily: OK +10 poin score=1530
+--> [1]Virly menjalankan: Auto All Tasks (11 pending)
+[1]Virly       |05:37:08 | 20-10-2026| [1/11] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/virlyairina/status/2112417225925919441
+[1]Virly       |05:37:08 | 20-10-2026| delay 10s...
+[1]Virly       |05:37:21 | 20-10-2026| [2/11] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/virlyairina/status/2112417492212088776
+[1]Virly       |05:37:21 | 20-10-2026| delay 10s...
+[1]Virly       |05:37:33 | 20-10-2026| [3/11] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/virlyairina/status/2112417488769423819
+[1]Virly       |05:37:33 | 20-10-2026| delay 10s...
+[1]Virly       |05:37:44 | 20-10-2026| [4/11] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/virlyairina/status/2112417371463440271
+[1]Virly       |05:37:44 | 20-10-2026| delay 10s...
+[1]Virly       |05:37:56 | 20-10-2026| [5/11] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/virlyairina/status/2112417713047141188
+[1]Virly       |05:37:56 | 20-10-2026| delay 10s...
+[1]Virly       |05:38:07 | 20-10-2026| [6/11] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/virlyairina/status/2112417665372647059
+[1]Virly       |05:38:07 | 20-10-2026| delay 10s...
+[1]Virly       |05:38:19 | 20-10-2026| [7/11] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/virlyairina/status/2112417848474304694
+[1]Virly       |05:38:19 | 20-10-2026| delay 10s...
+[1]Virly       |05:38:32 | 20-10-2026| [8/11] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/virlyairina/status/2112417813016135150
+[1]Virly       |05:38:32 | 20-10-2026| delay 10s...
+[1]Virly       |05:38:44 | 20-10-2026| [9/11] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/virlyairina/status/2112417677960905414
+[1]Virly       |05:38:44 | 20-10-2026| delay 10s...
+[1]Virly       |05:38:55 | 20-10-2026| [10/11] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/virlyairina/status/2112417824244065129
+[1]Virly       |05:38:55 | 20-10-2026| delay 10s...
+[1]Virly       |05:39:06 | 20-10-2026| [11/11] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/virlyairina/status/2112417775331432523
+[1]Virly       |05:39:06 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Virly       |05:39:07 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/virlyairina/status/2112418037260326644
 --> [1]Virly menjalankan: Watch Anime
-[1]Virly       |05:35:51 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Virly       |05:35:51 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Virly       |05:39:09 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Virly       |05:39:09 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Virly       |05:35:53 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Virly       |05:35:58 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Virly       |05:35:59 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Virly       |05:36:04 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Virly       |05:36:06 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Virly       |05:36:11 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Virly       |05:36:13 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Virly       |05:39:11 | 20-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Virly       |05:39:16 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Virly       |05:39:17 | 20-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Virly       |05:39:22 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Virly       |05:39:24 | 20-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Virly       |05:39:29 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Virly       |05:39:30 | 20-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Virly menjalankan: Read Article
-[1]Virly       |05:36:15 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Virly       |05:36:16 | 19-10-2026| mint eligibility: {"userId":"1772028394500493312","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@virlyairina","status":"submitted","revision":"4239ae46-b6d7-4ffc-aadc-ed1da873d2
-[1]Virly       |05:36:16 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Virly       |05:39:33 | 20-10-2026| news: 27/27 artikel selesai dibaca
+[1]Virly       |05:39:33 | 20-10-2026| mint eligibility: {"userId":"1772028394500493312","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@virlyairina","status":"submitted","revision":"4239ae46-b6d7-4ffc-aadc-ed1da873d2
+[1]Virly       |05:39:33 | 20-10-2026| news: semua artikel sudah dibaca
 --> [1]Virly menjalankan: Quiz Anime
-[1]Virly       |05:36:17 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Virly       |05:36:17 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Virly       |05:36:17 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Virly       |05:36:17 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Virly       |05:36:17 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Virly       |05:36:17 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Virly       |05:39:33 | 20-10-2026| quiz ep1: sudah dijawab
+[1]Virly       |05:39:33 | 20-10-2026| quiz ep2: sudah dijawab
+[1]Virly       |05:39:33 | 20-10-2026| quiz ep3: sudah dijawab
+[1]Virly       |05:39:33 | 20-10-2026| quiz ep4: sudah dijawab
+[1]Virly       |05:39:33 | 20-10-2026| quiz ep5: sudah dijawab
+[1]Virly       |05:39:33 | 20-10-2026| quiz ep6: sudah dijawab
 --> [1]Virly menjalankan: Music Missions (realtime, bisa lama!)
-[1]Virly       |05:36:22 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Virly       |05:36:22 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Virly       |05:36:22 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Virly       |05:36:22 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Virly       |05:39:35 | 20-10-2026| music: kedua misi sudah tercapai, stop
+[1]Virly       |05:39:36 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Virly       |05:39:36 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Virly       |05:39:36 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Virly menjalankan: Claim Missions
-[1]Virly       |05:36:23 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Virly       |05:36:23 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Virly       |05:36:23 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Virly       |05:39:36 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Virly       |05:39:36 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Virly       |05:39:36 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Virly menjalankan: Check Eligibility
 
 --- eligibility [1]Virly ---
-  @virlyairina | score=1460 rank=4612
-  tasks    [###################-] 74/79
+  @virlyairina | score=1520 rank=4597
+  tasks    [#################---] 71/82
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -74,14 +86,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Virly menjalankan: Read Manga
-[1]Virly       |05:36:33 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Virly       |05:39:39 | 20-10-2026| manga: 0/13 chapter belum completed
 --> [1]Virly menjalankan: Get Gift
-[1]Virly       |05:36:34 | 19-10-2026| gift: 0/4 belum diterima
+[1]Virly       |05:39:40 | 20-10-2026| gift: 0/4 belum diterima
 --> [1]Virly menjalankan: Setup Profile
-[1]Virly       |05:36:35 | 19-10-2026| profile: bio="https://x.com/virlyairina" fav=kagura rewardAt=1791707973
-[1]Virly       |05:36:35 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Virly       |05:39:40 | 20-10-2026| profile: bio="https://x.com/virlyairina" fav=kagura rewardAt=1791707973
+[1]Virly       |05:39:40 | 20-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Virly menjalankan: Bind Wallet
-[1]Virly       |05:36:36 | 19-10-2026| wallet: sudah terikat A98e9F53sW... (solana)
+[1]Virly       |05:39:40 | 20-10-2026| wallet: sudah terikat A98e9F53sW... (solana)
 
 == RINGKASAN ==
-- Virly: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Virly: daily=claimed | tasks OK 12/12 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
