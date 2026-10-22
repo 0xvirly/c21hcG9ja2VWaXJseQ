@@ -12,133 +12,54 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Virly =====
-[1]Virly       |09:55:57 | 21-10-2026| login OK @virlyairina | score=1640 rank=4333
-[1]Virly       |09:55:57 | 21-10-2026| serverTime=2026-10-21T09:55:57.000Z local=2026-10-21T09:55:57.327Z
+[1]Virly       |07:17:55 | 22-10-2026| login OK @virlyairina | score=1710 rank=4165
+[1]Virly       |07:17:55 | 22-10-2026| serverTime=2026-10-22T07:17:55.000Z local=2026-10-22T07:17:55.575Z
 --> [1]Virly menjalankan: Claim Daily
-[1]Virly       |09:55:58 | 21-10-2026| daily: OK +10 poin score=1650
---> [1]Virly menjalankan: Auto All Tasks (6 pending)
-[1]Virly       |09:56:01 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/virlyairina/status/2112844986574483238
-[1]Virly       |09:56:01 | 21-10-2026| delay 10s...
-[1]Virly       |09:56:13 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/virlyairina/status/2112845085743737956
-[1]Virly       |09:56:13 | 21-10-2026| delay 10s...
-[1]Virly       |09:56:26 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/virlyairina/status/2112844902740039811
-[1]Virly       |09:56:26 | 21-10-2026| delay 10s...
-[1]Virly       |09:56:38 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/virlyairina/status/2112845140589340966
-[1]Virly       |09:56:38 | 21-10-2026| delay 10s...
-[1]Virly       |09:56:50 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/virlyairina/status/2112844995162095359
-[1]Virly       |09:56:50 | 21-10-2026| delay 10s...
-[1]Virly       |09:57:03 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
-[1]Virly       |09:57:03 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Virly       |09:57:04 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/virlyairina/status/2112845262694981855
+[1]Virly       |07:17:56 | 22-10-2026| daily: OK +10 poin score=1720
+--> [1]Virly menjalankan: Auto All Tasks (7 pending)
+[1]Virly       |07:17:58 | 22-10-2026| [1/7] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/virlyairina/status/2113167431474830451
+[1]Virly       |07:17:58 | 22-10-2026| delay 10s...
+[1]Virly       |07:18:11 | 22-10-2026| [2/7] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/virlyairina/status/2113167729288664384
+[1]Virly       |07:18:11 | 22-10-2026| delay 10s...
+[1]Virly       |07:18:23 | 22-10-2026| [3/7] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/virlyairina/status/2113167660376374389
+[1]Virly       |07:18:23 | 22-10-2026| delay 10s...
+[1]Virly       |07:18:35 | 22-10-2026| [4/7] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/virlyairina/status/2113167687214453182
+[1]Virly       |07:18:35 | 22-10-2026| delay 10s...
+[1]Virly       |07:18:48 | 22-10-2026| [5/7] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/virlyairina/status/2113167536387473731
+[1]Virly       |07:18:48 | 22-10-2026| delay 10s...
+[1]Virly       |07:19:00 | 22-10-2026| [6/7] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/virlyairina/status/2113167845382447159
+[1]Virly       |07:19:00 | 22-10-2026| delay 10s...
+[1]Virly       |07:19:12 | 22-10-2026| [7/7] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/virlyairina/status/2113167765941624963
+[1]Virly       |07:19:12 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Virly       |07:19:14 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/virlyairina/status/2113167825304799697
 --> [1]Virly menjalankan: Watch Anime
-[1]Virly       |09:57:05 | 21-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Virly       |09:57:05 | 21-10-2026| watch [1/4] farming oshi-captains-hat...
-[1]Virly       |09:57:08 | 21-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Virly       |09:57:14 | 21-10-2026| watch oshi-captains-hat: 6% (5.53/92.00s)
-[1]Virly       |09:57:20 | 21-10-2026| watch oshi-captains-hat: 12% (11.17/92.00s)
-[1]Virly       |09:57:26 | 21-10-2026| watch oshi-captains-hat: 18% (16.75/92.00s)
-[1]Virly       |09:57:33 | 21-10-2026| watch oshi-captains-hat: 24% (22.36/92.00s)
-[1]Virly       |09:57:39 | 21-10-2026| watch oshi-captains-hat: 30% (28.52/92.00s)
-[1]Virly       |09:57:49 | 21-10-2026| watch oshi-captains-hat: 37% (34.11/92.00s)
-[1]Virly       |09:57:56 | 21-10-2026| watch oshi-captains-hat: 44% (41.36/92.00s)
-[1]Virly       |09:58:03 | 21-10-2026| watch oshi-captains-hat: 52% (47.92/92.00s)
-[1]Virly       |09:58:09 | 21-10-2026| watch oshi-captains-hat: 59% (54.36/92.00s)
-[1]Virly       |09:58:15 | 21-10-2026| watch oshi-captains-hat: 65% (60.53/92.00s)
-[1]Virly       |09:58:21 | 21-10-2026| watch oshi-captains-hat: 71% (66.15/92.00s)
-[1]Virly       |09:58:28 | 21-10-2026| watch oshi-captains-hat: 78% (71.87/92.00s)
-[1]Virly       |09:58:34 | 21-10-2026| watch oshi-captains-hat: 84% (77.63/92.00s)
-[1]Virly       |09:58:42 | 21-10-2026| watch oshi-captains-hat: 90% (83.33/92.00s)
-[1]Virly       |09:58:42 | 21-10-2026| watch oshi-captains-hat: COMPLETED (83.33/92.00s)
-[1]Virly       |09:58:47 | 21-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Virly       |09:58:49 | 21-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
-[1]Virly       |09:58:56 | 21-10-2026| watch oshi-rainbow-star: 6% (5.75/86.00s)
-[1]Virly       |09:59:02 | 21-10-2026| watch oshi-rainbow-star: 13% (11.36/86.00s)
-[1]Virly       |09:59:08 | 21-10-2026| watch oshi-rainbow-star: 19% (17.06/86.00s)
-[1]Virly       |09:59:14 | 21-10-2026| watch oshi-rainbow-star: 26% (22.80/86.00s)
-[1]Virly       |09:59:21 | 21-10-2026| watch oshi-rainbow-star: 32% (28.37/86.00s)
-[1]Virly       |09:59:29 | 21-10-2026| watch oshi-rainbow-star: 39% (34.04/86.00s)
-[1]Virly       |09:59:35 | 21-10-2026| watch oshi-rainbow-star: 46% (40.27/86.00s)
-[1]Virly       |09:59:41 | 21-10-2026| watch oshi-rainbow-star: 54% (46.51/86.00s)
-[1]Virly       |09:59:48 | 21-10-2026| watch oshi-rainbow-star: 60% (52.33/86.00s)
-[1]Virly       |09:59:54 | 21-10-2026| watch oshi-rainbow-star: 67% (58.15/86.00s)
-[1]Virly       |10:00:00 | 21-10-2026| watch oshi-rainbow-star: 74% (63.76/86.00s)
-[1]Virly       |10:00:06 | 21-10-2026| watch oshi-rainbow-star: 80% (69.42/86.00s)
-[1]Virly       |10:00:13 | 21-10-2026| watch oshi-rainbow-star: 87% (75.10/86.00s)
-[1]Virly       |10:00:20 | 21-10-2026| watch oshi-rainbow-star: 94% (81.23/86.00s)
-[1]Virly       |10:00:20 | 21-10-2026| watch oshi-rainbow-star: COMPLETED (81.23/86.00s)
-[1]Virly       |10:00:25 | 21-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Virly       |10:00:27 | 21-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Virly       |10:00:33 | 21-10-2026| watch oshi-rainbow-lighthouse: 6% (5.38/87.00s)
-[1]Virly       |10:00:39 | 21-10-2026| watch oshi-rainbow-lighthouse: 12% (11.03/87.00s)
-[1]Virly       |10:00:45 | 21-10-2026| watch oshi-rainbow-lighthouse: 19% (16.68/87.00s)
-[1]Virly       |10:00:52 | 21-10-2026| watch oshi-rainbow-lighthouse: 25% (22.32/87.00s)
-[1]Virly       |10:00:59 | 21-10-2026| watch oshi-rainbow-lighthouse: 32% (28.15/87.00s)
-[1]Virly       |10:01:05 | 21-10-2026| watch oshi-rainbow-lighthouse: 39% (34.30/87.00s)
-[1]Virly       |10:01:12 | 21-10-2026| watch oshi-rainbow-lighthouse: 46% (40.39/87.00s)
-[1]Virly       |10:01:19 | 21-10-2026| watch oshi-rainbow-lighthouse: 53% (46.29/87.00s)
-[1]Virly       |10:01:26 | 21-10-2026| watch oshi-rainbow-lighthouse: 60% (52.21/87.00s)
-[1]Virly       |10:01:32 | 21-10-2026| watch oshi-rainbow-lighthouse: 67% (58.53/87.00s)
-[1]Virly       |10:01:38 | 21-10-2026| watch oshi-rainbow-lighthouse: 74% (64.47/87.00s)
-[1]Virly       |10:01:45 | 21-10-2026| watch oshi-rainbow-lighthouse: 80% (70.03/87.00s)
-[1]Virly       |10:01:52 | 21-10-2026| watch oshi-rainbow-lighthouse: 87% (76.25/87.00s)
-[1]Virly       |10:01:59 | 21-10-2026| watch oshi-rainbow-lighthouse: 94% (82.42/87.00s)
-[1]Virly       |10:01:59 | 21-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (82.42/87.00s)
-[1]Virly       |10:02:04 | 21-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Virly       |10:02:06 | 21-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Virly       |10:02:13 | 21-10-2026| watch bakeru-ikesou-jan-mv: 3% (5.46/181.00s)
-[1]Virly       |10:02:19 | 21-10-2026| watch bakeru-ikesou-jan-mv: 6% (11.25/181.00s)
-[1]Virly       |10:02:25 | 21-10-2026| watch bakeru-ikesou-jan-mv: 9% (17.10/181.00s)
-[1]Virly       |10:02:33 | 21-10-2026| watch bakeru-ikesou-jan-mv: 12% (22.77/181.00s)
-[1]Virly       |10:02:40 | 21-10-2026| watch bakeru-ikesou-jan-mv: 16% (29.19/181.00s)
-[1]Virly       |10:02:47 | 21-10-2026| watch bakeru-ikesou-jan-mv: 19% (35.60/181.00s)
-[1]Virly       |10:02:53 | 21-10-2026| watch bakeru-ikesou-jan-mv: 23% (41.86/181.00s)
-[1]Virly       |10:02:59 | 21-10-2026| watch bakeru-ikesou-jan-mv: 26% (47.64/181.00s)
-[1]Virly       |10:03:06 | 21-10-2026| watch bakeru-ikesou-jan-mv: 29% (53.26/181.00s)
-[1]Virly       |10:03:12 | 21-10-2026| watch bakeru-ikesou-jan-mv: 32% (58.99/181.00s)
-[1]Virly       |10:03:18 | 21-10-2026| watch bakeru-ikesou-jan-mv: 35% (64.87/181.00s)
-[1]Virly       |10:03:25 | 21-10-2026| watch bakeru-ikesou-jan-mv: 38% (70.46/181.00s)
-[1]Virly       |10:03:32 | 21-10-2026| watch bakeru-ikesou-jan-mv: 42% (76.21/181.00s)
-[1]Virly       |10:03:38 | 21-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.61/181.00s)
-[1]Virly       |10:03:45 | 21-10-2026| watch bakeru-ikesou-jan-mv: 48% (88.40/181.00s)
-[1]Virly       |10:03:54 | 21-10-2026| watch bakeru-ikesou-jan-mv: 51% (94.12/181.00s)
-[1]Virly       |10:04:02 | 21-10-2026| watch bakeru-ikesou-jan-mv: 56% (101.82/181.00s)
-[1]Virly       |10:04:09 | 21-10-2026| watch bakeru-ikesou-jan-mv: 60% (108.83/181.00s)
-[1]Virly       |10:04:15 | 21-10-2026| watch bakeru-ikesou-jan-mv: 63% (115.21/181.00s)
-[1]Virly       |10:04:22 | 21-10-2026| watch bakeru-ikesou-jan-mv: 67% (121.38/181.00s)
-[1]Virly       |10:04:28 | 21-10-2026| watch bakeru-ikesou-jan-mv: 70% (127.60/181.00s)
-[1]Virly       |10:04:35 | 21-10-2026| watch bakeru-ikesou-jan-mv: 73% (133.27/181.00s)
-[1]Virly       |10:04:42 | 21-10-2026| watch bakeru-ikesou-jan-mv: 76% (138.95/181.00s)
-[1]Virly       |10:04:48 | 21-10-2026| watch bakeru-ikesou-jan-mv: 80% (145.44/181.00s)
-[1]Virly       |10:04:54 | 21-10-2026| watch bakeru-ikesou-jan-mv: 83% (151.01/181.00s)
-[1]Virly       |10:05:01 | 21-10-2026| watch bakeru-ikesou-jan-mv: 86% (156.80/181.00s)
-[1]Virly       |10:05:07 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.36/181.00s)
-[1]Virly       |10:05:14 | 21-10-2026| watch bakeru-ikesou-jan-mv: 92% (168.21/181.00s)
-[1]Virly       |10:05:14 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (168.21/181.00s)
+[1]Virly       |07:19:14 | 22-10-2026| watch: semua video sudah completed
 --> [1]Virly menjalankan: Read Article
-[1]Virly       |10:05:15 | 21-10-2026| news: 27/27 artikel selesai dibaca
-[1]Virly       |10:05:16 | 21-10-2026| mint eligibility: {"userId":"1772028394500493312","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@virlyairina","status":"submitted","revision":"4239ae46-b6d7-4ffc-aadc-ed1da873d2
-[1]Virly       |10:05:23 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Virly       |07:19:16 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Virly       |07:19:17 | 22-10-2026| mint eligibility: {"userId":"1772028394500493312","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@virlyairina","status":"submitted","revision":"4239ae46-b6d7-4ffc-aadc-ed1da873d2
+[1]Virly       |07:19:23 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Virly       |07:19:32 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Virly menjalankan: Quiz Anime
-[1]Virly       |10:05:25 | 21-10-2026| quiz ep1: sudah dijawab
-[1]Virly       |10:05:25 | 21-10-2026| quiz ep2: sudah dijawab
-[1]Virly       |10:05:25 | 21-10-2026| quiz ep3: sudah dijawab
-[1]Virly       |10:05:25 | 21-10-2026| quiz ep4: sudah dijawab
-[1]Virly       |10:05:25 | 21-10-2026| quiz ep5: sudah dijawab
-[1]Virly       |10:05:25 | 21-10-2026| quiz ep6: sudah dijawab
+[1]Virly       |07:19:34 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Virly       |07:19:34 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Virly       |07:19:34 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Virly       |07:19:34 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Virly       |07:19:34 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Virly       |07:19:34 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Virly menjalankan: Music Missions (realtime, bisa lama!)
-[1]Virly       |10:05:27 | 21-10-2026| music: kedua misi sudah tercapai, stop
-[1]Virly       |10:05:28 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Virly       |10:05:28 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Virly       |10:05:28 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Virly       |07:19:37 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Virly       |07:19:38 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Virly       |07:19:38 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Virly       |07:19:38 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Virly menjalankan: Claim Missions
-[1]Virly       |10:05:28 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Virly       |10:05:28 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Virly       |10:05:28 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Virly       |07:19:38 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Virly       |07:19:38 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Virly       |07:19:38 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Virly menjalankan: Check Eligibility
 
 --- eligibility [1]Virly ---
-  @virlyairina | score=1640 rank=4333
-  tasks    [###################-] 74/80
+  @virlyairina | score=1710 rank=4165
+  tasks    [##################--] 77/84
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -149,14 +70,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Virly menjalankan: Read Manga
-[1]Virly       |10:05:32 | 21-10-2026| manga: 0/13 chapter belum completed
+[1]Virly       |07:19:43 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Virly menjalankan: Get Gift
-[1]Virly       |10:05:33 | 21-10-2026| gift: 0/4 belum diterima
+[1]Virly       |07:19:44 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Virly menjalankan: Setup Profile
-[1]Virly       |10:05:33 | 21-10-2026| profile: bio="https://x.com/virlyairina" fav=kagura rewardAt=1791707973
-[1]Virly       |10:05:33 | 21-10-2026| profile: bonus sudah diklaim, skip
+[1]Virly       |07:19:44 | 22-10-2026| profile: bio="https://x.com/virlyairina" fav=kagura rewardAt=1791707973
+[1]Virly       |07:19:44 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Virly menjalankan: Bind Wallet
-[1]Virly       |10:05:34 | 21-10-2026| wallet: sudah terikat A98e9F53sW... (solana)
+[1]Virly       |07:19:45 | 22-10-2026| wallet: sudah terikat A98e9F53sW... (solana)
 
 == RINGKASAN ==
-- Virly: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 4/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Virly: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
